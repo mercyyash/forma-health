@@ -1,11 +1,11 @@
 {
-  "name": "FORMA Health",
-  "short_name": "FORMA",
+  "name": "FORMERCY",
+  "short_name": "FORMERCY",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#090d0b",
-  "theme_color": "#090d0b",
-  "description": "Personal health and fitness tracker",
+  "background_color": "#090909",
+  "theme_color": "#D7FF3F",
+  "description": "AI-powered personal health and fitness tracker",
   "icons": [
     {
       "src": "./icons/icon-192.png",
